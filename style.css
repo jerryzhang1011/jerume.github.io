@@ -1,0 +1,81 @@
+body {
+    background: peachpuff;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0px 150px 100px 150px;
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+a {
+    color: black;
+}
+h1 {
+    display: block;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+h2 {
+    border-bottom: 4px solid black;
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin: 0px;
+}
+
+.bold_font {
+    font-weight: bold;
+}
+
+#person-info {
+    display: flex;
+    margin-left: 200px;
+}
+
+#header {
+    display: flex;
+}
+
+#pic1 {
+    margin-top: 30px;
+    width: 150px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+#jerry {
+    margin-left: 100px;
+}
+
+.title-link {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+
+.point {
+    margin-top: 0px;
+}
+
+#work1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#title1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.work {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    justify-content: space-between;
+    display: flex;
+}
+
+#work1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
