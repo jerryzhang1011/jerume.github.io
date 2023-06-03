@@ -9,12 +9,14 @@ a {
     color: black;
 }
 h1 {
+    color: wheat;
     display: block;
     margin-top: 50px;
     margin-left: 300px;
 }
 
 h2 {
+    color: rgb(71, 65, 55);
     border-bottom: 4px solid black;
     margin-bottom: 10px;
 
@@ -113,6 +115,6 @@ ul {
 }
 
 li {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
